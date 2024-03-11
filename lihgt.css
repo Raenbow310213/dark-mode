@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+text-align: center;
+}
+img{
+    width: 60%;
+}
+h1{
+    color: aqua;
+}
+button{
+    font-size: 30px;
+    color: black;
+    background-color: greenyellow;
+}
+i{
+    font-size: 100px;
+    
+}
+h2{
+    color:red;
+}

@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+text-align: center;
+}
+img{
+    width: 60%;
+}
+h1{
+    color: darkred;
+}
+button{
+    font-size: 30px;
+    color:white;
+    background-color: rgb(50, 3, 50);
+}
+i{
+    font-size: 100px;
+}
+i{
+    font-size: 100px;
+    color: white;
+}
+h2{
+    color: rgb(114, 165, 42);
+}
